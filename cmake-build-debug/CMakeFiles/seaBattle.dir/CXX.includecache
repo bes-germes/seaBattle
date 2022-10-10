@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/olezh/CLionProjects/seaBattle/functions.cpp
+functions.h
+C:/Users/olezh/CLionProjects/seaBattle/functions.h
+
+C:/Users/olezh/CLionProjects/seaBattle/functions.h
+iostream
+-
+vector
+-
+ctime
+-
+map
+-
+
